@@ -450,6 +450,7 @@ header svg:hover,
   width: 100%;
 }
 .dashboard-banner-text {
+  z-index: 2;
   display: flex;
   flex-direction: column;
   gap: 24px;
