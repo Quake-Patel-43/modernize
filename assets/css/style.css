@@ -419,8 +419,8 @@ header svg:hover,
 .notification-active::after{
   position: absolute;
   content: "";
-  top: -5px;
-  right: -7px;
+  top: -4px;
+  right: -5px;
   width: 8px;
   height: 8px;
   border-radius: 50%;
