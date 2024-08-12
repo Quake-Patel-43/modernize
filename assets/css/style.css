@@ -581,6 +581,7 @@ header svg:hover,
   padding-left: 20px;
 }
 .month-selector {
+  background: #ffffff;
   padding: 0px 15px;
   width: 117px;
   display: flex;
