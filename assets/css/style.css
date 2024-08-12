@@ -271,6 +271,7 @@ body {
 }
 .side-bar-inner {
   height: 100%;
+  scrollbar-width: none;
   overflow-y: auto;
   position: fixed;
 }
