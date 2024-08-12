@@ -270,6 +270,8 @@ body {
   left: 0px;
 }
 .side-bar-inner {
+  height: 100%;
+  overflow-y: auto;
   position: fixed;
 }
 .side-bar h3 {
