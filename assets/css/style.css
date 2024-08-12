@@ -413,6 +413,19 @@ header svg:hover,
 .header-inner-left img {
   width: 18px;
 }
+.notification-active{
+  position: relative;
+}
+.notification-active::after{
+  position: absolute;
+  content: "";
+  top: -5px;
+  right: -7px;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--primary);
+}
 /* dashboard content */
 .dashboard-content {
   padding: 70px 15px 15px 15px;
